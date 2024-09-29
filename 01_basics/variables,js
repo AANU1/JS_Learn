@@ -1,0 +1,4 @@
+const accountId = 12
+let name = "Q"
+var phone = "1234"
+accountCity = "tondsi"
